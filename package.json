@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ankitbaid11326.github.io/me",
+  "homepage": "http://ankitbaid11326.github.io/me",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
@@ -19,7 +19,8 @@
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.6",
     "typescript": "^4.9.4",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "gh-pages": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -48,8 +49,7 @@
     ]
   },
   "devDependencies": {
-    "@types/styled-components": "^5.1.26",
-    "gh-pages": "^4.0.0"
+    "@types/styled-components": "^5.1.26"
   },
   "resolutions": {
     "styled-components": "^5"
